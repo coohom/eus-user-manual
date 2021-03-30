@@ -116,7 +116,7 @@ The subtask list can display the details of each subtask. Currently, one scene c
 
 Glossary:
 
-Rendering task: Based on the scene and camera, use the Vray engine to generate RGB images
+Rendering task: Based on the scene and camera, use the photo-realistic renderer to generate RGB images
 
 Auxiliary image tasks: based on the scene and camera, generate depth maps, semantic maps, instance maps, normal maps, etc.
 
