@@ -16,7 +16,7 @@ This chapter mainly introduces basic configurations such as how to log in to an 
 
 Tips： It is recommended to use Google Chrome to log in
 
-	☞Google Chrome download address https://www.google.cn/chrome/
+	☞Google Chrome download address https://www.google.com/chrome/
 ## Account login
 
  Click the account login on the system page, enter the account and password, and click login to log in to the home page of the EUS system.
